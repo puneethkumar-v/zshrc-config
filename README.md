@@ -128,4 +128,11 @@ alias gl='git log'
 alias gp='git pull'
 alias gpsh='git push'
 alias gss='git status -s'
+
+git clone https://github.com/zsh-users/zsh-completions.git ~/.oh-my-zsh/plugins/zsh-completions
+git clone https://github.com/supercrabtree/k.git ~/.oh-my-zsh/plugins/k
+git clone https://github.com/djui/alias-tips.git ~/.oh-my-zsh/plugins/alias-tips
+git clone https://github.com/Valiev/almostontop.git ~/.oh-my-zsh/plugins/almostontop
+git clone https://github.com/zsh-users/zsh-autosuggestions.git ~/.oh-my-zsh/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/plugins/zsh-syntax-highlighting
 ```
